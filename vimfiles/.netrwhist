@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='D:\study\codes\ibex\rtl'
+let g:netrw_dirhist_7='D:\study\codes\fpnew\src'
+let g:netrw_dirhist_6='D:/study/codes/fpnew/src'
+let g:netrw_dirhist_5='D:/study/codes/fpnew/src/fpu_div_sqrt_mvp/hdl'
+let g:netrw_dirhist_4='D:/study/codes/fpnew/src/fpu_div_sqrt_mvp'
+let g:netrw_dirhist_3='D:/study/codes/fpnew/src'
+let g:netrw_dirhist_2='D:\study\codes\fpnew\src'
+let g:netrw_dirhist_1='D:/study/codes/fpnew/src'
